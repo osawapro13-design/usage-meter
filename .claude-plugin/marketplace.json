@@ -1,0 +1,7 @@
+{
+  "name": "usage-meter",
+  "owner": { "name": "usage-meter" },
+  "plugins": [
+    { "name": "usage-meter", "source": "./", "description": "5時間枠と週枠の使用率をバーと色で表示します" }
+  ]
+}
