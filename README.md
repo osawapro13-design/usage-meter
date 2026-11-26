@@ -7,4 +7,4 @@ API キーで使っている場合は、使用率が取れないので何も表�
 
 ## インストール
 
-    /plugin install usage-meter --marketplace <owner>/<repo>
+    /plugin install usage-meter --marketplace osawapro13-design/usage-meter
